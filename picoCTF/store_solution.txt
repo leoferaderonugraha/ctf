@@ -1,4 +1,4 @@
-Vulnerability: Buffer Overflow
+Vulnerability: Integer Overflow
 
 [spoiler]
 10000001000000
