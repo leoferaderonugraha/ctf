@@ -1,3 +1,3 @@
-# ctf_writeup
+# ctf
 
 Tulisan random tentang ctf
